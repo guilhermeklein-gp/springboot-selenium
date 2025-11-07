@@ -1,0 +1,11 @@
+/Users/guilhermedev.pro/Documents/GitHub/springboot-selenium/src/test/java/com/example/selenium/Application.java
+/Users/guilhermedev.pro/Documents/GitHub/springboot-selenium/src/test/java/com/example/selenium/helpers/VisibilityHelper.java
+/Users/guilhermedev.pro/Documents/GitHub/springboot-selenium/src/test/java/com/example/selenium/pages/BasePage.java
+/Users/guilhermedev.pro/Documents/GitHub/springboot-selenium/src/test/java/com/example/selenium/pages/ResultsPage.java
+/Users/guilhermedev.pro/Documents/GitHub/springboot-selenium/src/test/java/com/example/selenium/pages/SearchPage.java
+/Users/guilhermedev.pro/Documents/GitHub/springboot-selenium/src/test/java/com/example/selenium/runners/Hook.java
+/Users/guilhermedev.pro/Documents/GitHub/springboot-selenium/src/test/java/com/example/selenium/runners/SpringBootRunner.java
+/Users/guilhermedev.pro/Documents/GitHub/springboot-selenium/src/test/java/com/example/selenium/runners/TestRunner.java
+/Users/guilhermedev.pro/Documents/GitHub/springboot-selenium/src/test/java/com/example/selenium/steps/BaseSteps.java
+/Users/guilhermedev.pro/Documents/GitHub/springboot-selenium/src/test/java/com/example/selenium/steps/ResultsSteps.java
+/Users/guilhermedev.pro/Documents/GitHub/springboot-selenium/src/test/java/com/example/selenium/steps/SearchSteps.java

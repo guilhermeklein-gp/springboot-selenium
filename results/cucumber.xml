@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="3.427" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-11-07T00:23:50.401641Z">
+<testcase classname="Searches in Home Page" name="User can do a search from the home page" time="2.729">
+<system-out><![CDATA[
+Given a user typing "Selenium" in the search input..........................passed
+When presses the search button..............................................passed
+Then results are displayed..................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
